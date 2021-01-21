@@ -1,0 +1,35 @@
+.menuDiv{
+  padding: 5vh;
+  margin: 0 auto;
+  width: 90vh;
+  height: auto;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(70, 70, 70);
+}
+
+.colCenterd{
+  float: none;
+  margin: 0 auto;
+}
+
+.comboMenu{
+  padding: 5vh;
+  width: 80vh;
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(70, 70, 70);
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.infoBox{
+  width: 80vh;
+}
+
+.InfoBox h1, h3{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(70, 70, 70);
+}
