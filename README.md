@@ -1,4 +1,4 @@
-This is a assignment from Kvix as part of an jobapplication.
+This is an assignment from Kvix as part of a jobapplication.
 
 How to run:
 
